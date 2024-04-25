@@ -10,8 +10,8 @@ This is a racing game where you try to beat your own time, this is a submission 
 This project requires [Unity3D](https://unity.com/) (2020.3.25f1) to build and run. Clone this repository and open the Programming-Theory folder in Unity.
 
 ## Credits
-Created, designed, and developed by Wilker.
+Created, designed, and developed by Jorge.
 
 ## Link
 
-https://github.com/WilkerAndres/Street-Racing
+https://github.com/JorgePerezGarcia/Street-Racing
